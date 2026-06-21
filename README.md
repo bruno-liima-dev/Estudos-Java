@@ -39,58 +39,51 @@ Gerador de tabuada com validação de entrada do usuário.
 
 ---
 
-📦 AutoStock
-
+### 📦 AutoStock
 Sistema simples de estoque desenvolvido para praticar armazenamento de dados utilizando arrays.
 
-Conceitos praticados:
-
-Arrays
-Scanner para entrada de dados
-Cadastro de informações
-Controle de posições no array
+**Conceitos praticados:**
+- `Arrays` para armazenamento de dados
+- `Scanner` para entrada do usuário
+- Cadastro de informações
+- Controle de posições no array
 
 ---
 
-🔧 MenuOficina
-
+### 🔧 MenuOficina
 Projeto de menu interativo para simular opções de uma oficina automotiva.
 
-Conceitos praticados:
-
-Switch
-Scanner
-Estruturas condicionais
-Organização de menus
-
----
-
-🔧 MenuOficinaV2
-
-Evolução do projeto MenuOficina com melhorias na estrutura e controle de fluxo.
-
-Conceitos praticados:
-
-Switch
-While
-Menus interativos
-Controle de fluxo
+**Conceitos praticados:**
+- Estrutura `switch`
+- `Scanner` para entrada do usuário
+- Estruturas condicionais
+- Organização de menus interativos
 
 ---
 
-📋 MiniEstoque
+### 🔧 MenuOficinaV2
+Evolução do projeto MenuOficina com melhorias na estrutura e no controle de fluxo.
 
+**Conceitos praticados:**
+- Estrutura `switch`
+- Laço `while`
+- Menus interativos
+- Controle de fluxo do programa
+- Organização de código
+
+---
+
+### 📋 MiniEstoque
 Sistema de estoque com cadastro, listagem e busca de peças automotivas.
 
-Conceitos praticados:
-
-Arrays de String
-For
-Switch
-Scanner
-Busca de dados
-Variáveis booleanas
-
+**Conceitos praticados:**
+- `Arrays` de String
+- Laço `for`
+- Estrutura `switch`
+- `Scanner` para entrada do usuário
+- Busca de dados em arrays
+- Variáveis booleanas (`boolean`)
+- Controle de posição no array
 ---
 
 ## Sobre

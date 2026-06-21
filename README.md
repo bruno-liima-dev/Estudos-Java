@@ -39,6 +39,60 @@ Gerador de tabuada com validação de entrada do usuário.
 
 ---
 
+📦 AutoStock
+
+Sistema simples de estoque desenvolvido para praticar armazenamento de dados utilizando arrays.
+
+Conceitos praticados:
+
+Arrays
+Scanner para entrada de dados
+Cadastro de informações
+Controle de posições no array
+
+---
+
+🔧 MenuOficina
+
+Projeto de menu interativo para simular opções de uma oficina automotiva.
+
+Conceitos praticados:
+
+Switch
+Scanner
+Estruturas condicionais
+Organização de menus
+
+---
+
+🔧 MenuOficinaV2
+
+Evolução do projeto MenuOficina com melhorias na estrutura e controle de fluxo.
+
+Conceitos praticados:
+
+Switch
+While
+Menus interativos
+Controle de fluxo
+
+---
+
+📋 MiniEstoque
+
+Sistema de estoque com cadastro, listagem e busca de peças automotivas.
+
+Conceitos praticados:
+
+Arrays de String
+For
+Switch
+Scanner
+Busca de dados
+Variáveis booleanas
+
+---
+
 ## Sobre
 Estudante de Engenharia de Software | Foco em Back-end Java  
 Construindo base sólida para alcançar a primeira vaga como Dev Jr.
